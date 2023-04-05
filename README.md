@@ -46,9 +46,9 @@ The code in this notebook can be used as a starting point for building machine l
 ## How to use the Jupyter Notebook
 
 1. Clone the GitHub repository to your local machine.
-2. Install the necessary libraries by running pip install -r requirements.txt command in the terminal.
-3. Run the Jupyter Notebook by running the jupyter notebook command in the terminal.
-4. Open the house-prices-eda.ipynb file in the Jupyter Notebook and run the code cells sequentially.
+2. Install the necessary libraries by running `pip install -r requirements.txt` command in the terminal.
+3. Run the Jupyter Notebook by running the `jupyter notebook` command in the terminal.
+4. Open the `house-prices-eda.ipynb` file in the Jupyter Notebook and run the code cells sequentially.
 
 ## Conclusion
 
